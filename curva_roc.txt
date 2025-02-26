@@ -1,0 +1,15 @@
+Classe class_0
+FPR: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.05714285714285714), np.float64(0.11428571428571428), np.float64(0.14285714285714285), np.float64(1.0)]
+TPR: [np.float64(0.0), np.float64(0.8947368421052632), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)]
+AUC: 1.0000
+
+Classe class_1
+FPR: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.18181818181818182), np.float64(1.0)]
+TPR: [np.float64(0.0), np.float64(0.6190476190476191), np.float64(0.6666666666666666), np.float64(0.7619047619047619), np.float64(0.9523809523809523), np.float64(1.0), np.float64(1.0), np.float64(1.0)]
+AUC: 1.0000
+
+Classe class_2
+FPR: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.05), np.float64(0.1), np.float64(1.0)]
+TPR: [np.float64(0.0), np.float64(0.7142857142857143), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)]
+AUC: 1.0000
+
